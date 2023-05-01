@@ -8,3 +8,11 @@ p{
     font-family: 'Poppins', sans-serif;
     font-weight: normal;
 }
+img{
+    max-width: 150px;
+    padding-bottom: 20px;
+}
+.hero{
+    background: mistyrose;
+    text-align: center;
+}
