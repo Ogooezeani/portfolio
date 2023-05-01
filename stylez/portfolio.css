@@ -16,3 +16,15 @@ img{
     background: mistyrose;
     text-align: center;
 }
+.partition{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    text-align: center;
+    line-height: 30px;
+}
+.division{
+    padding-bottom: 50px;
+}
