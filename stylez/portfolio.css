@@ -14,7 +14,7 @@ img{
 }
 .hero{
     background: mistyrose;
-    text-align: center;
+    
 }
 .partition{
     padding-top: 50px;
@@ -31,4 +31,9 @@ img{
 .round{
     padding-bottom: 20px;
     text-align: center;
+}
+
+.homepage-info h2{
+    font-size: 18px;
+    font-family: var(--default-font-family);
 }
