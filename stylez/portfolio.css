@@ -37,3 +37,14 @@ img{
     font-size: 18px;
     font-family: var(--default-font-family);
 }
+.fun{
+    max-width: 150px;
+
+}
+.homepage-link{
+    color: blue;
+    line-height: 30px;
+}
+.work-content {
+   color: black; 
+}
