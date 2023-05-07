@@ -70,3 +70,34 @@ img{
 .active{
     color: indigo !important;
 }
+nav a:hover
+nav li .active a{
+    color: indianred;
+}
+footer .email-link{
+    text-decoration: none;
+    color:black;
+    font-size: 24px;
+    text-align: center;
+
+}
+footer .email-link:hover{
+    color: indianred;
+}
+footer{
+    margin: 50px 0;
+}
+footer .social-links a{
+    margin: 0 20px;
+    color: indianred;
+    background: mintcream;
+    padding: 10px 14px;
+    font-size: 18px;
+    border-radius: 50%;
+    transition: all 150ms ease-in-out;
+    
+}
+footer .social-links a:hover{
+    color: whitesmoke;
+    background-color: mintcream;
+}
