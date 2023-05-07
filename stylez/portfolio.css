@@ -48,3 +48,25 @@ img{
 .work-content {
    color: black; 
 }
+.logo{
+    max-height: 120px;
+
+
+}
+.nav-item{
+    padding: 0 10px;
+    line-height: 14px;
+}
+.navbar-nav{
+    display: inline;
+    list-style: none;
+    font-weight: bold;
+}
+.nav li a{
+    text-decoration: none;
+    color: black;
+    
+}
+.active{
+    color: indigo !important;
+}
